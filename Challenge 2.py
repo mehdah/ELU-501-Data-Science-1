@@ -80,3 +80,5 @@ print("Nb of users without college : %d" % len(removed_college))
 print("Nb of users without location : %d" % len(removed_locations))
 print("Nb of users without employer : %d" % len(removed_employers))
 
+Asdee
+aecfa
